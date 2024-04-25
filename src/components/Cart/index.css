@@ -1,0 +1,15 @@
+/* Write your CSS code here */
+/* Write your CSS code here */
+/* CSS code for the cart container */
+.cart-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 70vh; /* 70% of the viewport height */
+}
+
+/* CSS code for the cart image */
+.cart-img {
+  width: 150px; /* Fixed width for the cart image */
+}
